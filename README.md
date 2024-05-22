@@ -9,6 +9,4 @@
 ## 🛠 Tools and Technologies
 - **Programming Languages:** Python, R, SQL, MATLAB
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow
-- **Web Frameworks:** Streamlit
 - **Database Management:** MySQL
