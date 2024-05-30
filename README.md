@@ -3,7 +3,7 @@
 - 👀 I’m interested in everything data, especially Data Science and Machine Learning.
 - 🌱 I’m currently learning advanced machine learning techniques and artificial intelligence.
 - 💞️ I’m looking to collaborate on data-driven projects that aim to solve real-world problems and improve business outcomes.
-- 📫 How to reach me: gracegitau05@gmail.com
+- 📫 How to reach me: gracegitau05@gmail.com, https://www.linkedin.com/in/grace-gitau-297433277/
 - ⚡ Fun fact: I love exploring how data can reveal hidden patterns and tell compelling stories.
 
 ## 🛠 Tools and Technologies
