@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Grace Gitau</h1>
 <h3 align="center">A passionate data scientist from Nairobi, Kenya</h3>
+
 With a strong foundation in Statistics and Information Technology, I specialize in transforming data into impactful insights. I’m passionate about leveraging data to drive decision-making, optimize processes, and create predictive models that align with business goals.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divinegrace05" alt="divinegrace05" /></a> </p>
 
